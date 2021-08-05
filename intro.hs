@@ -1,3 +1,5 @@
+
+--Assignment 1 of Csi194 Spring 13
 --1.1
 --turns numbers into a list for example 123 becomes [1,2,3]
 toDigits :: Integer -> [Integer]
